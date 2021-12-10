@@ -1,0 +1,24 @@
+body {
+  font-family: "Montserrat", Arial, sans-serif;
+}
+
+
+
+#content {
+  margin: 0 auto;
+  width:900px;
+}
+
+blockquote {
+font: 24px normal helvetica, sans-serif;
+font-style: italic;
+margin-top: 15px;
+margin-bottom: 15px;
+color: #13c3eb;
+margin-left: 50px;
+margin-right: 50px;
+padding-left: 15px;
+padding-right: 15px;
+border-left: 4px solid #ccc;
+border-right: 4px solid #ccc;
+}
